@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A survey to sort drone swarm videos",
   "main": "index.js",
+  "homepage": "https://Vultimate1.github.io/swarm-video-sorter",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "react-scripts start",
