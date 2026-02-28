@@ -18,7 +18,7 @@ root.render(
   <React.StrictMode>
   <HashRouter>
   <ThemeProvider theme={theme}>
-    <VideoPairApp_simple/>
+    <VideoSorter/>
   </ThemeProvider >
   </HashRouter>
   </React.StrictMode>
