@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/swarm-video-sorter/static/css/main.a98304f8.css",
-    "main.js": "/swarm-video-sorter/static/js/main.90368a6f.js",
-    "static/js/488.22cabd23.chunk.js": "/swarm-video-sorter/static/js/488.22cabd23.chunk.js",
+    "main.js": "/swarm-video-sorter/static/js/main.7f234739.js",
+    "static/js/488.f788f1f4.chunk.js": "/swarm-video-sorter/static/js/488.f788f1f4.chunk.js",
     "static/media/inter-latin-ext-600-normal.woff": "/swarm-video-sorter/static/media/inter-latin-ext-600-normal.4d0d5017d71ea1750fc1.woff",
     "static/media/inter-latin-ext-400-normal.woff": "/swarm-video-sorter/static/media/inter-latin-ext-400-normal.c616205185f0d3677df9.woff",
     "static/media/montserrat-latin-ext-500-normal.woff": "/swarm-video-sorter/static/media/montserrat-latin-ext-500-normal.3fdb8a9d01d93cc3aa42.woff",
@@ -61,11 +61,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/swarm-video-sorter/static/media/roboto-greek-ext-400-normal.f72a2e017918bb573bf7.woff",
     "index.html": "/swarm-video-sorter/index.html",
     "main.a98304f8.css.map": "/swarm-video-sorter/static/css/main.a98304f8.css.map",
-    "main.90368a6f.js.map": "/swarm-video-sorter/static/js/main.90368a6f.js.map",
-    "488.22cabd23.chunk.js.map": "/swarm-video-sorter/static/js/488.22cabd23.chunk.js.map"
+    "main.7f234739.js.map": "/swarm-video-sorter/static/js/main.7f234739.js.map",
+    "488.f788f1f4.chunk.js.map": "/swarm-video-sorter/static/js/488.f788f1f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a98304f8.css",
-    "static/js/main.90368a6f.js"
+    "static/js/main.7f234739.js"
   ]
 }
